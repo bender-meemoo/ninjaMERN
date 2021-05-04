@@ -24,7 +24,7 @@ class Sensei extends Ninja {
         this.wisdom = 10;
     }
     speakWisdom() {
-       this.drinkSake
+        this.drinkSake
         console.log(`${this.name} says, do not pee downwind from yourself.`);
     }
     showStats(){
